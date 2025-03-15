@@ -11,6 +11,6 @@ A programme for automatic recruitment of subscribers in Telegram groups. The too
 
 
 ## Contacts
-- Write to me in Telegram: @piedpipercom
-- 
+- [Write to me in Telegram](https://t.me/piedpipercom)
+  
 ![накр (1) (1)](https://github.com/user-attachments/assets/abd9cf01-b349-4980-8766-34fdc1a13d07)
